@@ -1,1 +1,1 @@
-# labirint
+# labrint
